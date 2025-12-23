@@ -96,7 +96,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="./assets/img/ haUHUCUu poster 11.png" class="card-img" alt="">
+                <img src="./assets/img/HSUAU poster 11.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Ford v Ferrari</h2>
                     <h6 class="des">Sailaja ipsum dolor sit consectetur elit.</h6>
