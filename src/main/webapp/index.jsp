@@ -60,7 +60,7 @@
             <video src="./assets/video/pixar.mp4" mute loop class="card-video"></video>
         </div>
         <div class="video-card">
-            <img src="./assets/img/marvel.png" class="video-card-image" alt="">
+            <img src="./assets/img/ BFhdznb marvel.png" class="video-card-image" alt="">
             <video src="./assets/video/marvel.mp4" mute loop class="card-video"></video>
         </div>
         <div class="video-card">
